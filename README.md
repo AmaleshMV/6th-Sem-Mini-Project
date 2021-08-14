@@ -12,7 +12,7 @@ This DDE bot can be created using the open source software called UIpath
 community edition, making it cost free for engineering the bot in the first place. Once 
 created, it takes an excel sheet as its input, which contains the data to be entered and 
 stored. The bot then scrapes the data and stores it dynamically in whichever format 
-specified by the company or the client. And there is a built in automation to send an Email to the respective manager/supervisor about the status of the process.
+specified by the company or the client. And there is a built in automation to send an Email to the respective manager/supervisor about the status of the process.
 The DDE bot helps employees who are new to the IT industry to be allocated a 
 work more suited to their qualifications. And so the productivity and resource 
 allocation of the entire organization might improve just a little. Robotic Process 
